@@ -34,5 +34,3 @@ msbuild.wrn
 *.exe
 *.o
 *.so
-src/CommandAPI/appsettings.Development.json
-src/CommandAPI/appsettings.json
